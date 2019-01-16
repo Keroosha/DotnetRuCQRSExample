@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetTalksCQRSTemplate", "DotNetTalksCQRSTemplate\DotNetTalksCQRSTemplate.csproj", "{1E3A217B-96A9-4B01-80AC-744FC6373F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{ADAE256D-CCDE-4A84-9962-4FF1FBEF8EFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS", "CQRS\CQRS.csproj", "{460F4803-84DE-4B30-8959-F8F81E9CCC51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E3A217B-96A9-4B01-80AC-744FC6373F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3A217B-96A9-4B01-80AC-744FC6373F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3A217B-96A9-4B01-80AC-744FC6373F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3A217B-96A9-4B01-80AC-744FC6373F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAE256D-CCDE-4A84-9962-4FF1FBEF8EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAE256D-CCDE-4A84-9962-4FF1FBEF8EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAE256D-CCDE-4A84-9962-4FF1FBEF8EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAE256D-CCDE-4A84-9962-4FF1FBEF8EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460F4803-84DE-4B30-8959-F8F81E9CCC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460F4803-84DE-4B30-8959-F8F81E9CCC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460F4803-84DE-4B30-8959-F8F81E9CCC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460F4803-84DE-4B30-8959-F8F81E9CCC51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
